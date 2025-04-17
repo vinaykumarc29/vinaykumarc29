@@ -1,7 +1,7 @@
 - 👋 Hi, I’m vinaykumar
 - 📚 Pursuing Bca 1st year
 - 👀 I’m interested in learning new things
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning React
 - 📫 How to reach me vinaykumarc204@gmail.com
 - 😄 Pronouns: he/him
 
